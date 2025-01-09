@@ -1,10 +1,8 @@
-<p align="center" ><img  src = "https://github.com/chula805/chula805/blob/main/img/banner.png" alt="banner"/></p>
-<br>
 <h1 align="center">Hi 👋, I'm Chulani Vimukthi</h1>
 
-<h3 align="center">I'm a Undergraduate Student & A Passionate Frontend Developer</h3><br>
+<h3 align="center">I'm an Undergraduate Student & A Passionate Frontend Developer</h3><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chula805&label=Profile%20Views&color=c11e38&style=flat" alt="chula805" width="200" height="40"/> </p> <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gehan2005&label=Profile%20Views&color=c11e38&style=flat" alt="Gehan2005" width="200" height="40"/> </p> <br>
 
 <table align="center">
 <tr border="none"> 
@@ -12,21 +10,21 @@
   
   - 🧑‍🎓 I’m an Undergraduate at **ICBT**
     
-  - 🔭 I’m currently working on **React Project**
+  - 🔭 I’m currently working on **Web Project**
     
-  - 🌱 I’m currently learning **React, Angular, Vue JS, Next JS, etc**
+  - 🌱 I’m currently learning **React, JavaScript**
   
-  - 👨‍💻 All of my projects are available at [https://github.com/chula805](https://github.com/chula805)
+  - 👨‍💻 All of my projects are available at [https://github.com/Gehan2005](https://github.com/Gehan2005)
   
   - 💬 Ask me about **HTML, CSS, SASS, Bootstrap, PHP, SQL, WordPress, etc.**
   
-  - 📫 How to reach me **vimukthichulani@gmail.com**
+  - 📫 How to reach me **gehansasanka2005@gmail.com**
   
   - ⚡ Fun fact **I think I am Funny**
     
 </td>
 <td width="40%" align="left">
-  <img src="https://github.com/chula805/chula805/blob/main/img/content-img.jpeg"/>
+  <img src="https://github.com/Gehan2005/Gehan2005/blob/main/img/programmer.jpg"/>
 </td>
 </tr>
 </table>
