@@ -43,7 +43,7 @@
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chula805&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gehan2005&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -54,7 +54,7 @@
 <h3 align="center">Connect With Me:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chulani-vimukthi-b8374723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chulani-vimukthi-b8374723b/" height="50" width="50" /></a> <a href="https://kaggle.com/chulanivimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chulanivimukthi" height="50" width="50" /></a> <a href="https://www.instagram.com/chulanivimukthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chulani518" height="50" width="50" /></a> </p>
+<a href="https://www.linkedin.com/in/gehan-sasanka-437844344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gehan-sasanka-437844344/" height="50" width="50" /></a> </p>
 
 <br>
 <hr>
