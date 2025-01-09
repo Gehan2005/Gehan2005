@@ -81,13 +81,9 @@
 <hr>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chula805" alt="chula805" /></a> </p><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gehan2005" alt="Gehan2005" /></a> </p><br>
 
 <hr>
-
-<h3 align="center">Support:</h3>
-
-<p align="center"><a href="https://buymeacoffee.com/chulanivimukthi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
